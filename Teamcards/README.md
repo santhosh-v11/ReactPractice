@@ -1,16 +1,20 @@
-# React + Vite
+# Teammates Profile Card – React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This project is a **responsive Team Profile Cards UI** built using **React.js** and **Tailwind CSS**.  
+It is code practicing in React concepts such as **functional components, props, reusable components, and list rendering using map()**.
 
-Currently, two official plugins are available:
+The goal of this project is to practice **real-world component structure and layout design** similar to modern dashboards.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Learning Outcomes
 
-## React Compiler
+Through this project, I practiced:
+* Creating reusable UI components
+* Passing and using props
+* Rendering lists with map()
+* Building responsive layouts
+* Structuring a React project professionally
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Deploy
+- Deplyed this projec on Versal
+Live : https://profile-cards-vert.vercel.app/
