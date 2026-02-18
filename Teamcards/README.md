@@ -1,10 +1,10 @@
-# Teammates Profile Card – React Project
+# Teammates Profile Card
 
 ## Description
 This project is a **responsive Team Profile Cards UI** built using **React.js** and **Tailwind CSS**.  
 It is code practicing in React concepts such as **functional components, props, reusable components, and list rendering using map()**.
 
-The goal of this project is to practice **real-world component structure and layout design** similar to modern dashboards.
+The goal of this project is to practice **above mentioned react concepts and layout design**.
 
 ## Learning Outcomes
 
